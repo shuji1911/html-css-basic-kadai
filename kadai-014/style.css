@@ -1,0 +1,29 @@
+body {
+font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.title {
+font-family: "sans-serif"; 
+font-size: 200%;
+letter-spacing: 1.2em;
+text-shadow: 2px 2px 2px gray;
+border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.red {
+    color: rgb(255, 192, 203);
+}
+
+.blue {
+    color: skyblue;
+}
+
+html {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.big {
+    font-weight: bold;
+}
